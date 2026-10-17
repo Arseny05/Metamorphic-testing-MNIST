@@ -21,7 +21,7 @@
 │   ├── augmented_mlp.pt          # Чекпоинт Augmented MLP
 │   ├── base_cnn.pt               # Чекпоинт Сверточной модели (BaseCNN)
 │   ├── base_cm.png               # Матрица ошибок Baseline
-│   ├── mlp_weights.png           # Визуализация весов первого слоя BaseMLP (XAI)
+│   ├── mlp_weights.png           # Визуализация весов первого слоя BaseMLP 
 │   ├── curves.png                # Кривые деградации Baseline
 │   ├── comparison_curves.png     # Сравнительные кривые моделей (Base vs Aug)
 │   ├── comparison_all_models.png # Сравнительные кривые всех трех моделей
